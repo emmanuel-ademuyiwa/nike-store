@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
     paddingBottom: 100,
   },
   title: {
-    fontSize: 34,
+    fontSize: 24,
     fontWeight: "500",
     marginVertical: 10,
   },
@@ -81,8 +81,8 @@ const styles = StyleSheet.create({
   },
   description: {
     marginVertical: 10,
-    fontSize: 18,
-    lineHeight: 30,
+    fontSize: 14,
+    lineHeight: 26,
     fontWeight: "300",
   },
 
